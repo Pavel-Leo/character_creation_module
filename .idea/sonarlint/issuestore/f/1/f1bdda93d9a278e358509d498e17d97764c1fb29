@@ -1,0 +1,4 @@
+
+qpython:S5886"YReturn a value of type "str" instead of "NoneType" or update function "attack" type hint.(ò¤Ÿù
+rpython:S5886"ZReturn a value of type "str" instead of "NoneType" or update function "defence" type hint.(ò¤Ÿù
+rpython:S5886#"ZReturn a value of type "str" instead of "NoneType" or update function "special" type hint.(ò¤Ÿù
